@@ -12,6 +12,14 @@ main {
     flex-grow: 1;
 }
 
-footer {
+.jumbo-1 {
+    background-image: url(jumbo-2.jpg);
+    background-position: center center;
+    background-size: cover;
+    height: 50vh;
+}
 
+footer {
+    height: 500px;
  }
+
